@@ -1,0 +1,4 @@
+imagen 1000x100 pies
+imagen 700x900 bodeadora vertical
+imagen 650x900 corredora vertical
+imagen 1500x200 pies
